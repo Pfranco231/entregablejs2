@@ -8,7 +8,9 @@ header img {
 }
 
 .imgi {
-  height: 22.3rem;
+  height: 20rem;
+  border-radius: 15px;
+  margin-left: 4rem;
 }
 
 .cards {
